@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kamaru Guzman\\source\\repos\\BackendCafe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7033FA9-A223-47CF-BFA5-8E2119BDB99F}|BackendCafe\\BackendCafe.csproj|c:\\users\\kamaru guzman\\source\\repos\\backendcafe\\backendcafe\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F7033FA9-A223-47CF-BFA5-8E2119BDB99F}|BackendCafe\\BackendCafe.csproj|solutionrelative:backendcafe\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7033FA9-A223-47CF-BFA5-8E2119BDB99F}|BackendCafe\\BackendCafe.csproj|c:\\users\\kamaru guzman\\source\\repos\\backendcafe\\backendcafe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7033FA9-A223-47CF-BFA5-8E2119BDB99F}|BackendCafe\\BackendCafe.csproj|solutionrelative:backendcafe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7033FA9-A223-47CF-BFA5-8E2119BDB99F}|BackendCafe\\BackendCafe.csproj|c:\\users\\kamaru guzman\\source\\repos\\backendcafe\\backendcafe\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7033FA9-A223-47CF-BFA5-8E2119BDB99F}|BackendCafe\\BackendCafe.csproj|solutionrelative:backendcafe\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7033FA9-A223-47CF-BFA5-8E2119BDB99F}|BackendCafe\\BackendCafe.csproj|c:\\users\\kamaru guzman\\source\\repos\\backendcafe\\backendcafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7033FA9-A223-47CF-BFA5-8E2119BDB99F}|BackendCafe\\BackendCafe.csproj|solutionrelative:backendcafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7033FA9-A223-47CF-BFA5-8E2119BDB99F}|BackendCafe\\BackendCafe.csproj|c:\\users\\kamaru guzman\\source\\repos\\backendcafe\\backendcafe\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7033FA9-A223-47CF-BFA5-8E2119BDB99F}|BackendCafe\\BackendCafe.csproj|solutionrelative:backendcafe\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7033FA9-A223-47CF-BFA5-8E2119BDB99F}|BackendCafe\\BackendCafe.csproj|c:\\users\\kamaru guzman\\source\\repos\\backendcafe\\backendcafe\\controllers\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7033FA9-A223-47CF-BFA5-8E2119BDB99F}|BackendCafe\\BackendCafe.csproj|solutionrelative:backendcafe\\controllers\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7033FA9-A223-47CF-BFA5-8E2119BDB99F}|BackendCafe\\BackendCafe.csproj|c:\\users\\kamaru guzman\\source\\repos\\backendcafe\\backendcafe\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7033FA9-A223-47CF-BFA5-8E2119BDB99F}|BackendCafe\\BackendCafe.csproj|solutionrelative:backendcafe\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7033FA9-A223-47CF-BFA5-8E2119BDB99F}|BackendCafe\\BackendCafe.csproj|c:\\users\\kamaru guzman\\source\\repos\\backendcafe\\backendcafe\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7033FA9-A223-47CF-BFA5-8E2119BDB99F}|BackendCafe\\BackendCafe.csproj|solutionrelative:backendcafe\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore.txt",
+              "DocumentMoniker": "C:\\Users\\Kamaru Guzman\\source\\repos\\BackendCafe\\BackendCafe\\.gitignore.txt",
+              "RelativeDocumentMoniker": "BackendCafe\\.gitignore.txt",
+              "ToolTip": "C:\\Users\\Kamaru Guzman\\source\\repos\\BackendCafe\\BackendCafe\\.gitignore.txt",
+              "RelativeToolTip": "BackendCafe\\.gitignore.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-14T18:26:06.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Kamaru Guzman\\source\\repos\\BackendCafe\\BackendCafe\\models\\Usuario.cs",
+              "RelativeDocumentMoniker": "BackendCafe\\models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Kamaru Guzman\\source\\repos\\BackendCafe\\BackendCafe\\models\\Usuario.cs",
+              "RelativeToolTip": "BackendCafe\\models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T17:12:16.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kamaru Guzman\\source\\repos\\BackendCafe\\BackendCafe\\appsettings.json",
+              "RelativeDocumentMoniker": "BackendCafe\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kamaru Guzman\\source\\repos\\BackendCafe\\BackendCafe\\appsettings.json",
+              "RelativeToolTip": "BackendCafe\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T16:06:24.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kamaru Guzman\\source\\repos\\BackendCafe\\BackendCafe\\Program.cs",
+              "RelativeDocumentMoniker": "BackendCafe\\Program.cs",
+              "ToolTip": "C:\\Users\\Kamaru Guzman\\source\\repos\\BackendCafe\\BackendCafe\\Program.cs",
+              "RelativeToolTip": "BackendCafe\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T15:35:06.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Kamaru Guzman\\source\\repos\\BackendCafe\\BackendCafe\\Controllers\\Auth\\AuthController.cs",
+              "RelativeDocumentMoniker": "BackendCafe\\Controllers\\Auth\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Kamaru Guzman\\source\\repos\\BackendCafe\\BackendCafe\\Controllers\\Auth\\AuthController.cs",
+              "RelativeToolTip": "BackendCafe\\Controllers\\Auth\\AuthController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T16:01:16.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Kamaru Guzman\\source\\repos\\BackendCafe\\BackendCafe\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "BackendCafe\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Kamaru Guzman\\source\\repos\\BackendCafe\\BackendCafe\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "BackendCafe\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:34:59.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "C:\\Users\\Kamaru Guzman\\source\\repos\\BackendCafe\\BackendCafe\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "BackendCafe\\Controllers\\ServiciosController.cs",
+              "ToolTip": "C:\\Users\\Kamaru Guzman\\source\\repos\\BackendCafe\\BackendCafe\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "BackendCafe\\Controllers\\ServiciosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:33:42.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kamaru Guzman\\source\\repos\\BackendCafe\\BackendCafe\\data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BackendCafe\\data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Kamaru Guzman\\source\\repos\\BackendCafe\\BackendCafe\\data\\AppDbContext.cs",
+              "RelativeToolTip": "BackendCafe\\data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:51:06.361Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: backendcafe
+    runtime: dotnet
+    repo: https://github.com/JEstebanGuzman/BackendCafe
+    branch: main
+    rootDir: .
+    buildCommand: dotnet publish -c Release -o out
+    startCommand: dotnet BackendCafe.dll
