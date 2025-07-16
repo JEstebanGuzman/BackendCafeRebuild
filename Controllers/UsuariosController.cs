@@ -76,15 +76,15 @@ namespace BackendCafe.Controllers
         // POST: api/Usuarios
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost("login")]
-        public async Task<IActionResult> Login([FromBody] Usuario usuario)
+        public async Task<IActionResult> Login([FromBody] Login datos)
         {
-            if (usuario == null || string.IsNullOrEmpty(usuario.Correo) || string.IsNullOrEmpty(usuario.Contrasena))
+            if (datos == null || string.IsNullOrEmpty(datos.Correo) || string.IsNullOrEmpty(datos.Contrasena))
             {
                 return BadRequest(new { mensaje = "Correo y contraseña requeridos" });
             }
 
             var user = await _context.Usuarios
-                .FirstOrDefaultAsync(u => u.Correo == usuario.Correo && u.Contrasena == usuario.Contrasena);
+                .FirstOrDefaultAsync(u => u.Correo == datos.Correo && u.Contrasena == datos.Contrasena);
 
             if (user == null)
             {
