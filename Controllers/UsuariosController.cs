@@ -75,13 +75,32 @@ namespace BackendCafe.Controllers
 
         // POST: api/Usuarios
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        [HttpPost]
-        public async Task<ActionResult<Usuario>> PostUsuario(Usuario usuario)
+        [HttpPost("login")]
+        public async Task<IActionResult> Login([FromBody] Usuario usuario)
         {
-            _context.Usuarios.Add(usuario);
-            await _context.SaveChangesAsync();
+            if (usuario == null || string.IsNullOrEmpty(usuario.Correo) || string.IsNullOrEmpty(usuario.Contraseña))
+            {
+                return BadRequest(new { mensaje = "Correo y contraseña requeridos" });
+            }
 
-            return CreatedAtAction("GetUsuario", new { id = usuario.Id }, usuario);
+            var user = await _context.Usuarios
+                .FirstOrDefaultAsync(u => u.Correo == usuario.Correo && u.Contraseña == usuario.Contraseña);
+
+            if (user == null)
+            {
+                return Unauthorized(new { mensaje = "Credenciales inválidas" });
+            }
+
+            return Ok(new
+            {
+                mensaje = "Login exitoso",
+                usuario = new
+                {
+                    id = user.Id,
+                    nombre = user.Nombre,
+                    correo = user.Correo
+                }
+            });
         }
 
         // DELETE: api/Usuarios/5
