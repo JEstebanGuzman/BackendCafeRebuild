@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kamaru Guzman\\source\\repos\\BackendCafe\\BackendCafe\\BackendCafe.csproj": {}
+    "C:\\Users\\Kamaru Guzman\\source\\repos\\BackendCafe\\BackendCafe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kamaru Guzman\\source\\repos\\BackendCafe\\BackendCafe\\BackendCafe.csproj": {
+    "C:\\Users\\Kamaru Guzman\\source\\repos\\BackendCafe\\BackendCafe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kamaru Guzman\\source\\repos\\BackendCafe\\BackendCafe\\BackendCafe.csproj",
+        "projectUniqueName": "C:\\Users\\Kamaru Guzman\\source\\repos\\BackendCafe\\BackendCafe.csproj",
         "projectName": "BackendCafe",
-        "projectPath": "C:\\Users\\Kamaru Guzman\\source\\repos\\BackendCafe\\BackendCafe\\BackendCafe.csproj",
+        "projectPath": "C:\\Users\\Kamaru Guzman\\source\\repos\\BackendCafe\\BackendCafe.csproj",
         "packagesPath": "C:\\Users\\Kamaru Guzman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kamaru Guzman\\source\\repos\\BackendCafe\\BackendCafe\\obj\\",
+        "outputPath": "C:\\Users\\Kamaru Guzman\\source\\repos\\BackendCafe\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

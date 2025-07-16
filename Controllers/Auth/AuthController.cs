@@ -1,8 +1,8 @@
 ﻿using BackendCafe.models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using BackendCafe.Data; 
-using BackendCafe.models; 
+using BackendCafe.Data;
+using System.Threading.Tasks;
 
 namespace BackendCafe.Controllers.Auth
 {
@@ -18,7 +18,7 @@ namespace BackendCafe.Controllers.Auth
         }
 
         [HttpPost("login")]
-        public async Task<IActionResult> Login([FromBody] Usuario loginData)
+        public async Task<IActionResult> Login([FromBody] Login loginData)
         {
             var usuario = await _context.Usuarios
                 .FirstOrDefaultAsync(u => u.Correo == loginData.Correo && u.Contrasena == loginData.Contrasena);
@@ -38,8 +38,6 @@ namespace BackendCafe.Controllers.Auth
                     usuario.Correo
                 }
             });
-
         }
-
     }
 }
